@@ -25,7 +25,7 @@ Sem aplicar uma classe específica para "Título do Parágrafo", crie uma regra 
 
 ## Desafio plus
 
-Altere o HTML. Adicione um novo parágrafo para <code>div</code> "conteudo" de maneira que esta <code>div</code> tenha 4 filhos do tipo <code>p</code>.
+Altere o HTML. Adicione um novo parágrafo para <code>div</code> **"conteudo"** de maneira que esta <code>div</code> tenha 4 filhos do tipo <code>p</code>.
 
 Altere o CSS de forma que **apenas o terceiro parágrafo filho de <code>div</code> "conteudo"** tenha a cor roxa e subscrito.
 
