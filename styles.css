@@ -3,4 +3,30 @@
 .container {
     font-family: Arial, sans-serif;
     padding: 20px;
+    background-color: green;
+}
+
+.cabecalho {
+    background-color: #91D08B;
+    text-align: center;
+    
+}
+
+.cabecalho b {
+    font-size: 32px;
+}
+
+.conteudo {
+    background-color: blue;
+
+}
+
+.conteudo  h1{
+    background-color: blue;
+    color: #91D08B;
+}
+
+.conteudo  p{
+    background-color: blue;
+    color: #ff0000;
 }
